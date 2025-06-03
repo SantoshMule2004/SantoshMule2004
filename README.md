@@ -1,6 +1,6 @@
 <img alt="coding" src="https://quickops.pt/wp-content/uploads/2023/04/fullstack_developer.png" />
 <h1 align="center">Hi 👋, I'm Santosh Somnath Mule</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Full stack developer from India</h3>
 
 
 

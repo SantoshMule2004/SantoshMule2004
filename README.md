@@ -1,7 +1,8 @@
+<img alt="coding" src="https://quickops.pt/wp-content/uploads/2023/04/fullstack_developer.png" />
 <h1 align="center">Hi 👋, I'm Santosh Somnath Mule</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santoshmule2004&label=Profile%20views&color=0e75b6&style=flat" alt="santoshmule2004" /> </p>
 
